@@ -1,3 +1,5 @@
+-- CREATE Tickers Table Script
+
 CREATE OR REPLACE TABLE Tickers
 (
     id          INT AUTO_INCREMENT  PRIMARY KEY,
