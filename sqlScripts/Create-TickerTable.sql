@@ -7,5 +7,6 @@ CREATE OR REPLACE TABLE Tickers
     companyName VARCHAR(256)    NULL,
     description VARCHAR(256)    NULL,
     startDate   DATE            NULL,
-    endDate     DATE            NULL
+    endDate     DATE            NULL,
+    exchange    INT             NULL
 );
